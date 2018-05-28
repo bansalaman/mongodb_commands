@@ -1,0 +1,7 @@
+Studio 3T for Mongo DB --> platform to run mongo commands(just to check)
+
+Also, open mondod.exe and mongo.exe in Program files in C drive. 
+
+Connect --> New Connection --> Intelli Shell
+Database --> Collections --> documents
+
